@@ -2,21 +2,8 @@
 This is an Flutter project for an assignment at an internship
 
 ##🕸️code structure 
-lib/
-  models/
-    post_model.dart
-    comment_model.dart
-    user_model.dart
-  api/
-    api_service.dart
-  exceptions/
-    app_exceptions.dart
-  screens/
-    home_screen.dart
-    post_details_screen.dart
-    user_profile_screen.dart
-  app_data.dart
-  main.dart
+![image](https://github.com/user-attachments/assets/41f46efe-524f-402c-83c9-42fcef1e1039)
+
 
 ##tech
 1. Flutter - framework
