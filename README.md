@@ -1,16 +1,25 @@
 # social_media
+This is an Flutter project for an assignment at an internship
 
-A new Flutter project.
+##🕸️code structure 
+lib/
+  models/
+    post_model.dart
+    comment_model.dart
+    user_model.dart
+  api/
+    api_service.dart
+  exceptions/
+    app_exceptions.dart
+  screens/
+    home_screen.dart
+    post_details_screen.dart
+    user_profile_screen.dart
+  app_data.dart
+  main.dart
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##tech
+1. Flutter - framework
+2. Dart - language
+3. Dio - HTTP method
+4. GetX - state management
